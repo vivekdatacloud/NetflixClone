@@ -260,9 +260,10 @@ Kids profiles come with PIN-protected parental controls that let you restrict th
 
       </Stack>
       </Container>
-      <Center p="20px" color="white"><Heading fontSize="19px">Made with ❤️ by _ </Heading> <Heading pr="10px"fontSize="19px" color="red">Farman</Heading></Center>
+      <Center p="20px" color="white"><Heading fontSize="19px">Made with ❤️ by _ </Heading> <Heading pr="10px"fontSize="19px" color="red">Pratik</Heading></Center>
      </Container>
     
     </Container>
   );
 };
+

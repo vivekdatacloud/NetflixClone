@@ -6,7 +6,7 @@
 <br />
 
 
-<h2 align="center">🖥️ Tech Stack</h2>
+<h2 align="center">Tech Stack</h2>
 
 
 <h4 align="center">Frontend:</h4>
@@ -119,7 +119,7 @@ its Fully Responsive web application that allows you to Watch your favourite awa
 
 ## Movie Page
 
-<img src="./client/src/assets/userdashboard.png">
+<!-- <img src="./client/src/assets/userdashboard.png"> -->
 <br />
 
 ## New & Popluar Shows/movies Page

@@ -64,7 +64,7 @@ import { getMyList } from "../redux/actions";
           
           </Center>
           
-      (
+      
   
         {
           status?<ReactVideoPlayer setstatus={setstatus}/>:(
