@@ -46,7 +46,7 @@
 
 <h3 align="center"><a href="https://netflixclonebyfarman.vercel.app"><strong>Want to see live preview »</strong></a></h3>
 
-<h3 align="center"><a href="linkedinvideo"><strong>Demo Video »</strong></a></h3>
+<!-- <h3 align="center"><a href="linkedinvideo"><strong>Demo Video »</strong></a></h3> -->
 
 
 <br />
@@ -119,7 +119,7 @@ its Fully Responsive web application that allows you to Watch your favourite awa
 
 ## Movie Page
 
-<!-- <img src="./client/src/assets/userdashboard.png"> -->
+<img src="./client/src/assets/userdashboard.png">
 <br />
 
 ## New & Popluar Shows/movies Page
@@ -194,7 +194,7 @@ If you want to contact me, you can reach me through below handles. <br />
 
 
 
-© 2023 Farman Malik
+© 2023 Pratik Rajput
 
 
 
